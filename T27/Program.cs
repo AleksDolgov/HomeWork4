@@ -29,4 +29,4 @@ while(number>0)
     result = result +  number%10;
     number = number/10;
 }
-Console.WriteLine($"Сумма цифр введенног числа равна {result}");
+Console.WriteLine($"Сумма цифр введенного числа равна {result}");
